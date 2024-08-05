@@ -1,3 +1,6 @@
 # simple-calculator
 A simple calculator by a beginner.
-link:
+
+
+
+link: https://simple-calculator-bice.vercel.app/
